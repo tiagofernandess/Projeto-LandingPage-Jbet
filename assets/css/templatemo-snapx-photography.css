@@ -936,6 +936,7 @@ Banner Style
 
 .main-banner {
   background-image: url(../images/banner-bg.jpg);
+  min-height: 500px;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2538,6 +2539,34 @@ body {
 }
 
 @media (max-width: 767px) {
+
+  .main-banner h2 {
+   
+    color: #fff;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 74px;
+  }
+
+  .main-banner h2 em {
+    font-style: normal;
+    color: #ffa500;
+    font-size: 38px;
+  }
+
+  .main-banner h3 {
+    padding-top: 20px;
+    color: white;
+    font-size: 18px;
+  }
+
+  .main-banner p {
+    color: #fff;
+    padding: 30px 0px;
+    margin: 50px 20px 0px 20px;
+    border-top: 1px solid rgba(250,250,250,0.2);
+  }
+
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     display: none;
   }
@@ -2559,9 +2588,12 @@ body {
   .closed-contests .owl-nav .owl-prev {
     left: -10px !important;
   }
+
 }
 
 @media (max-width: 992px) {
+
+
   .header-area .main-nav .nav li:first-child {
     padding-left: 15px !important;
   }
