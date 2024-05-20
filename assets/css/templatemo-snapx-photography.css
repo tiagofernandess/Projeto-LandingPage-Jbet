@@ -974,8 +974,8 @@ Banner Style
 .main-banner .big-border-button a {
   font-size: 20px;
   color: #fff;
-  background-color: transparent;
-  border: 1px solid #fff;
+  background-color: #003f1d;
+  border: 1px solid #003f1d;
   padding: 15px 30px;
   display: inline-block;
   border-radius: 10px;
@@ -987,9 +987,9 @@ Banner Style
 }
 
 .main-banner .big-border-button a:hover {
-  background-color: #003f1d;
+  background-color: white;
   border: 1px solid #003f1d;
-  color: orange;
+  color: #003f1d;
 }
 
 .main-banner .icon-button a {
@@ -2586,8 +2586,8 @@ body {
   .main-banner .big-border-button a {
     font-size: 18px;
     color: #fff;
-    background-color: transparent;
-    border: 1px solid #fff;
+    background-color: #003f1d;
+    border: 1px solid #003f1d;
     padding: 15px 20px;
     display: inline-block;
     border-radius: 10px;
