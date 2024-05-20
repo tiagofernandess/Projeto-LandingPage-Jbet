@@ -940,7 +940,7 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 290px;
+  padding-top: 190px;
   padding-bottom: 240px;
   text-align: center;
   background-color: #2a2a2a;
@@ -2541,7 +2541,7 @@ body {
 @media (max-width: 767px) {
 
   .main-banner h2 {
-   
+  
     color: #fff;
     font-size: 38px;
     font-weight: 700;
