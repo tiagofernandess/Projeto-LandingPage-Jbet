@@ -2540,6 +2540,11 @@ body {
 
 @media (max-width: 767px) {
 
+  .main-banner {
+    padding-top: 150px;
+    padding-bottom: 200px;
+  }
+
   .main-banner h2 {
   
     color: #fff;
