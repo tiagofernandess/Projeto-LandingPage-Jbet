@@ -935,7 +935,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/banner\ principal.png);
   min-height: 500px;
   background-repeat: no-repeat;
   background-position: center center;
