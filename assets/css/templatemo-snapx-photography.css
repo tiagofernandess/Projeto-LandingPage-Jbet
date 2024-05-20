@@ -409,7 +409,7 @@ Header Style
 
 .header-area .main-nav .nav li.has-sub ul li a:hover {
   background: #fff;
-  color: #00bdfe!important;
+  color: #003f1d!important;
   padding-left: 25px;
 }
 
@@ -581,8 +581,9 @@ Header Style
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #00bdfe!important;
+    color: #003f1d!important;
     opacity: 1;
+   
   }
   .header-area.header-sticky .nav li.search-icon a {
     width: 100%;
@@ -642,7 +643,7 @@ Header Style
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #00bdfe!important;
+    color: #003f1d!important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
@@ -884,7 +885,7 @@ a.btn_red {
   clear: both;
   overflow: hidden;
   text-decoration: none;
-  color: #00bdfe;
+  color: #003f1d;
   transition: all .3s;
 }
 /* User Register Form */
@@ -1843,7 +1844,7 @@ Contest Details Page
 .contest-details .top-content ul li {
   font-size: 18px;
   font-weight: 500;
-  color: #00bdfe;
+  color: #003f1d;
   margin-left: 15px;
 }
 
@@ -2002,7 +2003,7 @@ Contest Details Page
 .contest-waiting .waiting-item .down-content span.price em,
 .contest-waiting .waiting-item .down-content span.deadline em {
   font-style: normal;
-  color: #00bdfe;
+  color: #003f1d;
 }
 
 .contest-waiting ul.pagination {
@@ -2518,14 +2519,14 @@ section.contact-us .info-item a:hover {
   font-weight: 500;
   text-transform: capitalize;
   letter-spacing: 0.5px;
-  border: 1px solid #00bdfe;
+  border: 1px solid #003f1d;
   transition: all .3s;
 }
 
 #contact button.orange-button:hover {
   background-color: transparent;
   border: 1px solid #003f1d;
-  color: #00bdfe;
+  color: #003f1d;
 }
 
 
