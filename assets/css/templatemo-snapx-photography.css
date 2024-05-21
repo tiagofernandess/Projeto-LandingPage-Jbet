@@ -1263,6 +1263,17 @@ section.closed-contests {
   padding: 120px 0px;
 }
 
+section.closed-contests iframe {
+  margin: 0;
+  display: inline;
+  text-align: center;
+  margin: 5px;
+}
+ 
+section.closed-contests h4 {
+  font-size: 24px;
+}
+
 .closed-item .thumb {
   position: relative;
   overflow: hidden;
@@ -2267,7 +2278,7 @@ Categories Page
   margin-top: -70px;
   margin-bottom: 120px;
   position: relative;
-  z-index: 555;
+  
 }
 
 .testimonials .owl-dots .owl-dot {
