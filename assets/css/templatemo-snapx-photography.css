@@ -154,6 +154,7 @@ body {
 }
 
 .border-button a {
+  margin-top: 20px;
   font-size: 15px;
   color: #003f1d;
   background-color: transparent;
@@ -236,7 +237,6 @@ Header Style
 .background-header {
   background-color: #fff;
   height: 70px!important;
-  position: fixed!important;
   top: 0!important;
   left: 0;
   right: 0;
@@ -1264,10 +1264,12 @@ section.closed-contests {
 }
 
 section.closed-contests iframe {
-  margin: 0;
-  display: inline;
+  margin: 0 auto;
+  display: block;
   text-align: center;
-  margin: 5px;
+  
+  
+ 
 }
  
 section.closed-contests h4 {
@@ -2608,6 +2610,14 @@ body {
     text-transform: capitalize;
     letter-spacing: 0.5px;
     transition: all .3s;
+  }
+
+  section.closed-contests iframe {
+    margin: 0 auto;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+  
   }
 
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
